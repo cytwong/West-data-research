@@ -1,0 +1,28 @@
+# 監看清單 — 每行一個 Yahoo Finance 代號,# 開頭為註解
+# 改這個檔案即可增減標的,下一小時自動生效
+# 格式:美股直接用代號;外匯加 =X;加密貨幣加 -USD;指數加 ^
+
+# --- 股票 (美股) --- ※ 佔位範例,請換成你的正式清單
+NVDA
+TSLA
+RKBL
+ASTS
+GOOG
+ANET
+MRVL
+TXN
+TEM
+PSNL
+
+# --- 外匯 ---
+SGDHKD=X
+SGDUSD=X
+
+# --- 加密貨幣 ---
+BTC-USD
+ETH-USD
+SOL-USD
+
+# --- 指數 ---
+^GSPC
+^NDX
