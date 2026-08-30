@@ -14,6 +14,8 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -23,7 +25,11 @@ jobs:
         run: |
           git config user.name "monitor-bot"
           git config user.email "actions@users.noreply.github.com"
+          cp data/signals.json /tmp/signals.json
+          git fetch origin "$GITHUB_REF_NAME"
+          git checkout -f -B "$GITHUB_REF_NAME" "origin/$GITHUB_REF_NAME"
+          mkdir -p data
+          cp /tmp/signals.json data/signals.json
           git add data/signals.json
           git diff --cached --quiet || git commit -m "signals $(date -u +%FT%TZ) [skip ci]"
-          git pull --rebase origin ${GITHUB_REF_NAME} || true
-          git push
+          git push origin "$GITHUB_REF_NAME"
