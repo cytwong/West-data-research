@@ -5,7 +5,7 @@
 # --- 股票 (美股) --- ※ 佔位範例,請換成你的正式清單
 NVDA
 TSLA
-RKBL
+RKLB
 ASTS
 GOOG
 ANET
