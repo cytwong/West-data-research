@@ -1,12 +1,8 @@
 {
- "generated_at_utc": "2026-09-30T23:40:12.593851+00:00",
+ "generated_at_utc": "2026-10-01T05:37:21.490730+00:00",
  "watchlist_count": 17,
- "alert_count": 1,
- "alerts": {
-  "SGDHKD=X": [
-   "跌破結構低點 6.1399"
-  ]
- },
+ "alert_count": 0,
+ "alerts": {},
  "symbols": [
   {
    "sym": "NVDA",
@@ -34,7 +30,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 3.7,
+   "stale_hours": 9.6,
    "last_bar_utc": "2026-09-30T20:00:00+00:00",
    "signals": []
   },
@@ -46,7 +42,7 @@
    "rsi_1h_prev": 42.1,
    "rsi_1d": 46.0,
    "vol_x": 0.81,
-   "range_x": 1.18,
+   "range_x": 1.22,
    "support": 354.05,
    "resistance": 366.5,
    "dist_sup_pct": 0.21,
@@ -64,7 +60,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 3.7,
+   "stale_hours": 9.6,
    "last_bar_utc": "2026-09-30T20:00:00+00:00",
    "signals": []
   },
@@ -94,7 +90,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 3.7,
+   "stale_hours": 9.6,
    "last_bar_utc": "2026-09-30T20:00:00+00:00",
    "signals": []
   },
@@ -106,7 +102,7 @@
    "rsi_1h_prev": 39.3,
    "rsi_1d": 44.6,
    "vol_x": 0.97,
-   "range_x": 0.78,
+   "range_x": 0.79,
    "support": 58.32,
    "resistance": 64.63,
    "dist_sup_pct": 0.93,
@@ -124,7 +120,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 3.7,
+   "stale_hours": 9.6,
    "last_bar_utc": "2026-09-30T20:00:00+00:00",
    "signals": []
   },
@@ -154,7 +150,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 3.7,
+   "stale_hours": 9.6,
    "last_bar_utc": "2026-09-30T20:00:00+00:00",
    "signals": []
   },
@@ -184,7 +180,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 3.7,
+   "stale_hours": 9.6,
    "last_bar_utc": "2026-09-30T20:00:00+00:00",
    "signals": []
   },
@@ -214,7 +210,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 3.7,
+   "stale_hours": 9.6,
    "last_bar_utc": "2026-09-30T20:00:00+00:00",
    "signals": []
   },
@@ -244,7 +240,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 3.7,
+   "stale_hours": 9.6,
    "last_bar_utc": "2026-09-30T20:00:00+00:00",
    "signals": []
   },
@@ -274,7 +270,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 3.7,
+   "stale_hours": 9.6,
    "last_bar_utc": "2026-09-30T20:00:00+00:00",
    "signals": []
   },
@@ -304,25 +300,25 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 3.7,
+   "stale_hours": 9.6,
    "last_bar_utc": "2026-09-30T20:00:00+00:00",
    "signals": []
   },
   {
    "sym": "SGDHKD=X",
-   "price": 6.1396,
-   "chg_pct": -0.02,
-   "rsi_1h": 48.2,
-   "rsi_1h_prev": 48.9,
-   "rsi_1d": 45.2,
+   "price": 6.131,
+   "chg_pct": -0.16,
+   "rsi_1h": 34.6,
+   "rsi_1h_prev": 33.7,
+   "rsi_1d": 41.9,
    "vol_x": null,
    "range_x": 0.0,
    "support": 6.1276,
    "resistance": 6.1441,
-   "dist_sup_pct": 0.2,
-   "dist_res_pct": 0.07,
-   "prev_dist_sup_pct": 0.2,
-   "prev_dist_res_pct": 0.07,
+   "dist_sup_pct": 0.06,
+   "dist_res_pct": 0.21,
+   "prev_dist_sup_pct": 0.05,
+   "prev_dist_res_pct": 0.22,
    "ma_1h": {
     "now": "+",
     "prev": "+",
@@ -334,30 +330,28 @@
     "changed": false
    },
    "struct_break": {
-    "level": 6.1399,
-    "bars_ago": 0
+    "level": 6.1377,
+    "bars_ago": 6
    },
-   "stale_hours": 0.0,
-   "last_bar_utc": "2026-09-30T23:38:59+00:00",
-   "signals": [
-    "跌破結構低點 6.1399"
-   ]
+   "stale_hours": 0.1,
+   "last_bar_utc": "2026-10-01T05:34:01+00:00",
+   "signals": []
   },
   {
    "sym": "SGDUSD=X",
-   "price": 0.7828,
-   "chg_pct": 0.02,
-   "rsi_1h": 49.3,
-   "rsi_1h_prev": 48.9,
-   "rsi_1d": 44.8,
+   "price": 0.7815,
+   "chg_pct": -0.14,
+   "rsi_1h": 34.7,
+   "rsi_1h_prev": 34.7,
+   "rsi_1d": 41.1,
    "vol_x": null,
    "range_x": 0.0,
-   "support": 0.7825,
-   "resistance": 0.7833,
-   "dist_sup_pct": 0.03,
-   "dist_res_pct": 0.06,
-   "prev_dist_sup_pct": 0.03,
-   "prev_dist_res_pct": 0.07,
+   "support": 0.7807,
+   "resistance": 0.7819,
+   "dist_sup_pct": 0.1,
+   "dist_res_pct": 0.05,
+   "prev_dist_sup_pct": 0.11,
+   "prev_dist_res_pct": 0.05,
    "ma_1h": {
     "now": "+",
     "prev": "+",
@@ -369,28 +363,28 @@
     "changed": false
    },
    "struct_break": {
-    "level": 0.7827,
-    "bars_ago": 2
+    "level": 0.7824,
+    "bars_ago": 6
    },
    "stale_hours": 0.0,
-   "last_bar_utc": "2026-09-30T23:40:03+00:00",
+   "last_bar_utc": "2026-10-01T05:37:13+00:00",
    "signals": []
   },
   {
    "sym": "BTC-USD",
-   "price": 83580.27,
-   "chg_pct": -0.05,
-   "rsi_1h": 47.7,
-   "rsi_1h_prev": 48.0,
-   "rsi_1d": 61.1,
-   "vol_x": 0.55,
-   "range_x": 0.49,
+   "price": 84238.69,
+   "chg_pct": 0.74,
+   "rsi_1h": 58.5,
+   "rsi_1h_prev": 58.2,
+   "rsi_1d": 63.0,
+   "vol_x": 0.64,
+   "range_x": 0.9,
    "support": 79205.5156,
    "resistance": 87363.7578,
-   "dist_sup_pct": 5.52,
-   "dist_res_pct": 4.53,
-   "prev_dist_sup_pct": 5.55,
-   "prev_dist_res_pct": 4.5,
+   "dist_sup_pct": 6.35,
+   "dist_res_pct": 3.71,
+   "prev_dist_sup_pct": 6.33,
+   "prev_dist_res_pct": 3.73,
    "ma_1h": {
     "now": "+",
     "prev": "+",
@@ -403,24 +397,54 @@
    },
    "struct_break": null,
    "stale_hours": 0.0,
-   "last_bar_utc": "2026-09-30T23:39:59+00:00",
+   "last_bar_utc": "2026-10-01T05:37:11+00:00",
    "signals": []
   },
   {
    "sym": "ETH-USD",
-   "price": 2687.47,
-   "chg_pct": 0.4,
-   "rsi_1h": 51.2,
-   "rsi_1h_prev": 51.4,
-   "rsi_1d": 62.5,
-   "vol_x": 1.11,
-   "range_x": 0.44,
+   "price": 2714.21,
+   "chg_pct": 1.4,
+   "rsi_1h": 61.8,
+   "rsi_1h_prev": 61.9,
+   "rsi_1d": 64.5,
+   "vol_x": 1.81,
+   "range_x": 0.93,
    "support": 2628.6892,
    "resistance": 2805.499,
-   "dist_sup_pct": 2.24,
-   "dist_res_pct": 4.39,
-   "prev_dist_sup_pct": 2.26,
-   "prev_dist_res_pct": 4.37,
+   "dist_sup_pct": 3.25,
+   "dist_res_pct": 3.36,
+   "prev_dist_sup_pct": 3.26,
+   "prev_dist_res_pct": 3.36,
+   "ma_1h": {
+    "now": "+",
+    "prev": "+",
+    "changed": false
+   },
+   "ma_1d": {
+    "now": "++",
+    "prev": "++",
+    "changed": false
+   },
+   "struct_break": null,
+   "stale_hours": 0.0,
+   "last_bar_utc": "2026-10-01T05:37:12+00:00",
+   "signals": []
+  },
+  {
+   "sym": "SOL-USD",
+   "price": 119.39,
+   "chg_pct": 0.28,
+   "rsi_1h": 54.5,
+   "rsi_1h_prev": 54.5,
+   "rsi_1d": 64.0,
+   "vol_x": 0.09,
+   "range_x": 0.56,
+   "support": 98.6259,
+   "resistance": 119.8072,
+   "dist_sup_pct": 21.05,
+   "dist_res_pct": 0.35,
+   "prev_dist_sup_pct": 21.06,
+   "prev_dist_res_pct": 0.34,
    "ma_1h": {
     "now": "-",
     "prev": "-",
@@ -433,37 +457,7 @@
    },
    "struct_break": null,
    "stale_hours": 0.0,
-   "last_bar_utc": "2026-09-30T23:39:58+00:00",
-   "signals": []
-  },
-  {
-   "sym": "SOL-USD",
-   "price": 118.16,
-   "chg_pct": -0.75,
-   "rsi_1h": 45.9,
-   "rsi_1h_prev": 45.9,
-   "rsi_1d": 62.0,
-   "vol_x": 0.44,
-   "range_x": 0.36,
-   "support": 98.6259,
-   "resistance": 119.8072,
-   "dist_sup_pct": 19.81,
-   "dist_res_pct": 1.39,
-   "prev_dist_sup_pct": 19.81,
-   "prev_dist_res_pct": 1.39,
-   "ma_1h": {
-    "now": "+",
-    "prev": "+",
-    "changed": false
-   },
-   "ma_1d": {
-    "now": "++",
-    "prev": "++",
-    "changed": false
-   },
-   "struct_break": null,
-   "stale_hours": 0.0,
-   "last_bar_utc": "2026-09-30T23:39:56+00:00",
+   "last_bar_utc": "2026-10-01T05:37:13+00:00",
    "signals": []
   },
   {
@@ -473,7 +467,7 @@
    "rsi_1h": 37.4,
    "rsi_1h_prev": 37.9,
    "rsi_1d": 48.1,
-   "vol_x": 2.11,
+   "vol_x": 2.3,
    "range_x": 2.11,
    "support": 7638.1699,
    "resistance": 7756.7598,
@@ -495,7 +489,7 @@
     "level": 7653.5498,
     "bars_ago": 0
    },
-   "stale_hours": 3.7,
+   "stale_hours": 9.6,
    "last_bar_utc": "2026-09-30T20:00:00+00:00",
    "signals": []
   },
@@ -506,7 +500,7 @@
    "rsi_1h": 48.7,
    "rsi_1h_prev": 48.8,
    "rsi_1d": 60.2,
-   "vol_x": 1.54,
+   "vol_x": 1.74,
    "range_x": 1.73,
    "support": 28953.2598,
    "resistance": 30587.1602,
@@ -528,7 +522,7 @@
     "level": 30499.5293,
     "bars_ago": 1
    },
-   "stale_hours": 3.7,
+   "stale_hours": 9.6,
    "last_bar_utc": "2026-09-30T20:00:00+00:00",
    "signals": []
   }
