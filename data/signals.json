@@ -1,10 +1,16 @@
 {
- "generated_at_utc": "2026-10-10T18:26:32.862767+00:00",
+ "generated_at_utc": "2026-10-10T22:24:54.026978+00:00",
  "watchlist_count": 17,
- "alert_count": 1,
+ "alert_count": 3,
  "alerts": {
+  "BTC-USD": [
+   "成交量異常放大 7.51x"
+  ],
+  "ETH-USD": [
+   "成交量異常放大 4.31x"
+  ],
   "SOL-USD": [
-   "成交量異常放大 7.01x"
+   "成交量異常放大 6.49x"
   ]
  },
  "symbols": [
@@ -34,7 +40,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.4,
+   "stale_hours": 26.4,
    "last_bar_utc": "2026-10-09T20:00:00+00:00",
    "signals": []
   },
@@ -64,7 +70,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.4,
+   "stale_hours": 26.4,
    "last_bar_utc": "2026-10-09T20:00:00+00:00",
    "signals": []
   },
@@ -94,7 +100,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.4,
+   "stale_hours": 26.4,
    "last_bar_utc": "2026-10-09T20:00:00+00:00",
    "signals": []
   },
@@ -124,7 +130,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.4,
+   "stale_hours": 26.4,
    "last_bar_utc": "2026-10-09T20:00:00+00:00",
    "signals": []
   },
@@ -154,7 +160,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.4,
+   "stale_hours": 26.4,
    "last_bar_utc": "2026-10-09T20:00:00+00:00",
    "signals": []
   },
@@ -184,7 +190,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.4,
+   "stale_hours": 26.4,
    "last_bar_utc": "2026-10-09T20:00:00+00:00",
    "signals": []
   },
@@ -214,7 +220,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.4,
+   "stale_hours": 26.4,
    "last_bar_utc": "2026-10-09T20:00:00+00:00",
    "signals": []
   },
@@ -244,7 +250,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.4,
+   "stale_hours": 26.4,
    "last_bar_utc": "2026-10-09T20:00:00+00:00",
    "signals": []
   },
@@ -274,7 +280,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.4,
+   "stale_hours": 26.4,
    "last_bar_utc": "2026-10-09T20:00:00+00:00",
    "signals": []
   },
@@ -307,7 +313,7 @@
     "level": 16.005,
     "bars_ago": 1
    },
-   "stale_hours": 22.4,
+   "stale_hours": 26.4,
    "last_bar_utc": "2026-10-09T20:00:00+00:00",
    "signals": []
   },
@@ -337,7 +343,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 21.4,
+   "stale_hours": 25.4,
    "last_bar_utc": "2026-10-09T21:00:00+00:00",
    "signals": []
   },
@@ -367,25 +373,25 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 21.4,
+   "stale_hours": 25.4,
    "last_bar_utc": "2026-10-09T21:00:00+00:00",
    "signals": []
   },
   {
    "sym": "BTC-USD",
-   "price": 82906.52,
-   "chg_pct": 0.44,
-   "rsi_1h": 56.9,
-   "rsi_1h_prev": 57.0,
-   "rsi_1d": 51.5,
-   "vol_x": 0.87,
-   "range_x": 1.04,
+   "price": 82927.58,
+   "chg_pct": 0.46,
+   "rsi_1h": 56.4,
+   "rsi_1h_prev": 56.1,
+   "rsi_1d": 51.6,
+   "vol_x": 7.51,
+   "range_x": 0.66,
    "support": 82570.7188,
    "resistance": 87146.3516,
-   "dist_sup_pct": 0.41,
-   "dist_res_pct": 5.11,
-   "prev_dist_sup_pct": 0.41,
-   "prev_dist_res_pct": 5.11,
+   "dist_sup_pct": 0.43,
+   "dist_res_pct": 5.09,
+   "prev_dist_sup_pct": 0.43,
+   "prev_dist_res_pct": 5.09,
    "ma_1h": {
     "now": "+",
     "prev": "+",
@@ -398,22 +404,24 @@
    },
    "struct_break": null,
    "stale_hours": 0.0,
-   "last_bar_utc": "2026-10-10T18:26:20+00:00",
-   "signals": []
+   "last_bar_utc": "2026-10-10T22:24:38+00:00",
+   "signals": [
+    "成交量異常放大 7.51x"
+   ]
   },
   {
    "sym": "ETH-USD",
-   "price": 2505.92,
+   "price": 2505.83,
    "chg_pct": 0.82,
-   "rsi_1h": 59.2,
-   "rsi_1h_prev": 59.3,
+   "rsi_1h": 56.4,
+   "rsi_1h_prev": 56.6,
    "rsi_1d": 41.3,
-   "vol_x": 0.91,
-   "range_x": 0.51,
+   "vol_x": 4.31,
+   "range_x": 0.67,
    "support": 2406.9065,
    "resistance": 2545.6235,
    "dist_sup_pct": 4.11,
-   "dist_res_pct": 1.58,
+   "dist_res_pct": 1.59,
    "prev_dist_sup_pct": 4.12,
    "prev_dist_res_pct": 1.58,
    "ma_1h": {
@@ -428,24 +436,26 @@
    },
    "struct_break": null,
    "stale_hours": 0.0,
-   "last_bar_utc": "2026-10-10T18:26:15+00:00",
-   "signals": []
+   "last_bar_utc": "2026-10-10T22:24:37+00:00",
+   "signals": [
+    "成交量異常放大 4.31x"
+   ]
   },
   {
    "sym": "SOL-USD",
-   "price": 109.88,
-   "chg_pct": 0.68,
-   "rsi_1h": 49.4,
-   "rsi_1h_prev": 49.5,
-   "rsi_1d": 44.1,
-   "vol_x": 7.01,
-   "range_x": 0.69,
+   "price": 110.22,
+   "chg_pct": 0.99,
+   "rsi_1h": 53.3,
+   "rsi_1h_prev": 52.8,
+   "rsi_1d": 44.7,
+   "vol_x": 6.49,
+   "range_x": 0.45,
    "support": 98.6259,
-   "resistance": 110.039,
-   "dist_sup_pct": 11.41,
-   "dist_res_pct": 0.14,
-   "prev_dist_sup_pct": 11.42,
-   "prev_dist_res_pct": 0.14,
+   "resistance": 119.8072,
+   "dist_sup_pct": 11.76,
+   "dist_res_pct": 8.7,
+   "prev_dist_sup_pct": 11.73,
+   "prev_dist_res_pct": 8.73,
    "ma_1h": {
     "now": "+",
     "prev": "+",
@@ -458,9 +468,9 @@
    },
    "struct_break": null,
    "stale_hours": 0.0,
-   "last_bar_utc": "2026-10-10T18:26:21+00:00",
+   "last_bar_utc": "2026-10-10T22:24:47+00:00",
    "signals": [
-    "成交量異常放大 7.01x"
+    "成交量異常放大 6.49x"
    ]
   },
   {
@@ -489,7 +499,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.4,
+   "stale_hours": 26.4,
    "last_bar_utc": "2026-10-09T20:00:00+00:00",
    "signals": []
   },
@@ -519,7 +529,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.4,
+   "stale_hours": 26.4,
    "last_bar_utc": "2026-10-09T20:00:00+00:00",
    "signals": []
   }
