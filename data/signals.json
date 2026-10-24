@@ -1,5 +1,5 @@
 {
- "generated_at_utc": "2026-10-24T18:02:46.473484+00:00",
+ "generated_at_utc": "2026-10-24T20:40:24.723186+00:00",
  "watchlist_count": 17,
  "alert_count": 0,
  "alerts": {},
@@ -33,7 +33,7 @@
     "level": 211.44,
     "bars_ago": 1
    },
-   "stale_hours": 22.0,
+   "stale_hours": 24.7,
    "last_bar_utc": "2026-10-23T20:00:00+00:00",
    "signals": []
   },
@@ -51,7 +51,7 @@
    "dist_sup_pct": 0.98,
    "dist_res_pct": 2.93,
    "prev_dist_sup_pct": 0.98,
-   "prev_dist_res_pct": 2.93,
+   "prev_dist_res_pct": 2.94,
    "ma_1h": {
     "now": "+",
     "prev": "+",
@@ -63,7 +63,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.0,
+   "stale_hours": 24.7,
    "last_bar_utc": "2026-10-23T20:00:00+00:00",
    "signals": []
   },
@@ -80,8 +80,8 @@
    "resistance": 67.7,
    "dist_sup_pct": 6.8,
    "dist_res_pct": 28.71,
-   "prev_dist_sup_pct": 6.76,
-   "prev_dist_res_pct": 28.76,
+   "prev_dist_sup_pct": 6.78,
+   "prev_dist_res_pct": 28.73,
    "ma_1h": {
     "now": "-",
     "prev": "-",
@@ -93,7 +93,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.0,
+   "stale_hours": 24.7,
    "last_bar_utc": "2026-10-23T20:00:00+00:00",
    "signals": []
   },
@@ -123,7 +123,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.0,
+   "stale_hours": 24.7,
    "last_bar_utc": "2026-10-23T20:00:00+00:00",
    "signals": []
   },
@@ -153,7 +153,7 @@
     "changed": true
    },
    "struct_break": null,
-   "stale_hours": 22.0,
+   "stale_hours": 24.7,
    "last_bar_utc": "2026-10-23T20:00:00+00:00",
    "signals": []
   },
@@ -183,7 +183,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.0,
+   "stale_hours": 24.7,
    "last_bar_utc": "2026-10-23T20:00:00+00:00",
    "signals": []
   },
@@ -213,7 +213,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.0,
+   "stale_hours": 24.7,
    "last_bar_utc": "2026-10-23T20:00:00+00:00",
    "signals": []
   },
@@ -243,7 +243,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.0,
+   "stale_hours": 24.7,
    "last_bar_utc": "2026-10-23T20:00:00+00:00",
    "signals": []
   },
@@ -273,7 +273,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.0,
+   "stale_hours": 24.7,
    "last_bar_utc": "2026-10-23T20:00:00+00:00",
    "signals": []
   },
@@ -303,7 +303,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.0,
+   "stale_hours": 24.7,
    "last_bar_utc": "2026-10-23T20:00:00+00:00",
    "signals": []
   },
@@ -333,7 +333,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 21.0,
+   "stale_hours": 23.7,
    "last_bar_utc": "2026-10-23T21:00:00+00:00",
    "signals": []
   },
@@ -342,7 +342,7 @@
    "price": 0.7825,
    "chg_pct": -0.1,
    "rsi_1h": 49.8,
-   "rsi_1h_prev": 51.2,
+   "rsi_1h_prev": 51.1,
    "rsi_1d": 50.6,
    "vol_x": null,
    "range_x": 0.0,
@@ -363,25 +363,25 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 21.0,
+   "stale_hours": 23.7,
    "last_bar_utc": "2026-10-23T21:00:00+00:00",
    "signals": []
   },
   {
    "sym": "BTC-USD",
-   "price": 80138.08,
-   "chg_pct": -1.15,
-   "rsi_1h": 38.1,
-   "rsi_1h_prev": 38.6,
-   "rsi_1d": 42.1,
-   "vol_x": 0.0,
-   "range_x": 0.1,
-   "support": 79735.8594,
+   "price": 80518.69,
+   "chg_pct": -0.69,
+   "rsi_1h": 47.0,
+   "rsi_1h_prev": 46.7,
+   "rsi_1d": 43.3,
+   "vol_x": 0.62,
+   "range_x": 0.38,
+   "support": 80336.9062,
    "resistance": 81346.9531,
-   "dist_sup_pct": 0.5,
-   "dist_res_pct": 1.51,
-   "prev_dist_sup_pct": 0.54,
-   "prev_dist_res_pct": 1.48,
+   "dist_sup_pct": 0.23,
+   "dist_res_pct": 1.03,
+   "prev_dist_sup_pct": 0.21,
+   "prev_dist_res_pct": 1.04,
    "ma_1h": {
     "now": "-",
     "prev": "-",
@@ -394,24 +394,24 @@
    },
    "struct_break": null,
    "stale_hours": 0.0,
-   "last_bar_utc": "2026-10-24T18:02:33+00:00",
+   "last_bar_utc": "2026-10-24T20:40:15+00:00",
    "signals": []
   },
   {
    "sym": "ETH-USD",
-   "price": 2319.24,
-   "chg_pct": -2.72,
-   "rsi_1h": 30.2,
-   "rsi_1h_prev": 30.5,
-   "rsi_1d": 33.9,
-   "vol_x": 0.0,
-   "range_x": 0.1,
-   "support": 1852.8403,
+   "price": 2344.59,
+   "chg_pct": -1.66,
+   "rsi_1h": 43.4,
+   "rsi_1h_prev": 43.4,
+   "rsi_1d": 35.6,
+   "vol_x": 1.69,
+   "range_x": 0.53,
+   "support": 2320.5464,
    "resistance": 2522.8418,
-   "dist_sup_pct": 25.17,
-   "dist_res_pct": 8.78,
-   "prev_dist_sup_pct": 25.24,
-   "prev_dist_res_pct": 8.72,
+   "dist_sup_pct": 1.04,
+   "dist_res_pct": 7.6,
+   "prev_dist_sup_pct": 1.04,
+   "prev_dist_res_pct": 7.6,
    "ma_1h": {
     "now": "-",
     "prev": "-",
@@ -424,24 +424,24 @@
    },
    "struct_break": null,
    "stale_hours": 0.0,
-   "last_bar_utc": "2026-10-24T18:02:34+00:00",
+   "last_bar_utc": "2026-10-24T20:40:15+00:00",
    "signals": []
   },
   {
    "sym": "SOL-USD",
-   "price": 100.39,
-   "chg_pct": -2.33,
-   "rsi_1h": 33.2,
-   "rsi_1h_prev": 33.3,
-   "rsi_1d": 34.8,
-   "vol_x": 0.0,
-   "range_x": 0.12,
-   "support": 98.6259,
+   "price": 101.43,
+   "chg_pct": -1.31,
+   "rsi_1h": 45.9,
+   "rsi_1h_prev": 46.0,
+   "rsi_1d": 36.3,
+   "vol_x": 0.14,
+   "range_x": 0.64,
+   "support": 100.5079,
    "resistance": 105.4881,
-   "dist_sup_pct": 1.79,
-   "dist_res_pct": 5.08,
-   "prev_dist_sup_pct": 1.8,
-   "prev_dist_res_pct": 5.07,
+   "dist_sup_pct": 0.92,
+   "dist_res_pct": 4.0,
+   "prev_dist_sup_pct": 0.93,
+   "prev_dist_res_pct": 3.99,
    "ma_1h": {
     "now": "-",
     "prev": "-",
@@ -454,7 +454,7 @@
    },
    "struct_break": null,
    "stale_hours": 0.0,
-   "last_bar_utc": "2026-10-24T18:02:32+00:00",
+   "last_bar_utc": "2026-10-24T20:40:17+00:00",
    "signals": []
   },
   {
@@ -464,7 +464,7 @@
    "rsi_1h": 37.3,
    "rsi_1h_prev": 37.1,
    "rsi_1d": 42.2,
-   "vol_x": 1.22,
+   "vol_x": 1.33,
    "range_x": 0.26,
    "support": 7616.7798,
    "resistance": 7756.7598,
@@ -483,7 +483,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.0,
+   "stale_hours": 24.7,
    "last_bar_utc": "2026-10-23T20:00:00+00:00",
    "signals": []
   },
@@ -513,7 +513,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 22.0,
+   "stale_hours": 24.7,
    "last_bar_utc": "2026-10-23T20:00:00+00:00",
    "signals": []
   }
