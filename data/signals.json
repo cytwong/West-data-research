@@ -1,5 +1,5 @@
 {
- "generated_at_utc": "2026-11-14T03:02:13.223002+00:00",
+ "generated_at_utc": "2026-11-14T10:08:05.304396+00:00",
  "watchlist_count": 17,
  "alert_count": 0,
  "alerts": {},
@@ -30,7 +30,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 6.0,
+   "stale_hours": 13.1,
    "last_bar_utc": "2026-11-13T21:00:00+00:00",
    "signals": []
   },
@@ -60,7 +60,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 6.0,
+   "stale_hours": 13.1,
    "last_bar_utc": "2026-11-13T21:00:00+00:00",
    "signals": []
   },
@@ -90,7 +90,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 6.0,
+   "stale_hours": 13.1,
    "last_bar_utc": "2026-11-13T21:00:00+00:00",
    "signals": []
   },
@@ -123,7 +123,7 @@
     "level": 34.51,
     "bars_ago": 8
    },
-   "stale_hours": 6.0,
+   "stale_hours": 13.1,
    "last_bar_utc": "2026-11-13T21:00:00+00:00",
    "signals": []
   },
@@ -153,7 +153,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 6.0,
+   "stale_hours": 13.1,
    "last_bar_utc": "2026-11-13T21:00:00+00:00",
    "signals": []
   },
@@ -183,7 +183,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 6.0,
+   "stale_hours": 13.1,
    "last_bar_utc": "2026-11-13T21:00:00+00:00",
    "signals": []
   },
@@ -213,7 +213,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 6.0,
+   "stale_hours": 13.1,
    "last_bar_utc": "2026-11-13T21:00:00+00:00",
    "signals": []
   },
@@ -243,7 +243,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 6.0,
+   "stale_hours": 13.1,
    "last_bar_utc": "2026-11-13T21:00:00+00:00",
    "signals": []
   },
@@ -273,7 +273,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 6.0,
+   "stale_hours": 13.1,
    "last_bar_utc": "2026-11-13T21:00:00+00:00",
    "signals": []
   },
@@ -303,23 +303,23 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 6.0,
+   "stale_hours": 13.1,
    "last_bar_utc": "2026-11-13T21:00:00+00:00",
    "signals": []
   },
   {
    "sym": "SGDHKD=X",
-   "price": 6.0904,
-   "chg_pct": -0.28,
+   "price": 6.0903,
+   "chg_pct": -0.08,
    "rsi_1h": 42.5,
    "rsi_1h_prev": 41.1,
-   "rsi_1d": 36.2,
+   "rsi_1d": 34.8,
    "vol_x": null,
    "range_x": 0.04,
    "support": 6.0663,
    "resistance": 6.1187,
    "dist_sup_pct": 0.4,
-   "dist_res_pct": 0.46,
+   "dist_res_pct": 0.47,
    "prev_dist_sup_pct": 0.39,
    "prev_dist_res_pct": 0.47,
    "ma_1h": {
@@ -333,17 +333,17 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 5.0,
+   "stale_hours": 12.1,
    "last_bar_utc": "2026-11-13T22:00:00+00:00",
    "signals": []
   },
   {
    "sym": "SGDUSD=X",
    "price": 0.7766,
-   "chg_pct": -0.3,
+   "chg_pct": -0.07,
    "rsi_1h": 44.2,
    "rsi_1h_prev": 48.3,
-   "rsi_1d": 36.4,
+   "rsi_1d": 35.2,
    "vol_x": null,
    "range_x": 0.0,
    "support": 0.7744,
@@ -363,25 +363,25 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 5.0,
+   "stale_hours": 12.1,
    "last_bar_utc": "2026-11-13T22:00:00+00:00",
    "signals": []
   },
   {
    "sym": "BTC-USD",
-   "price": 67631.77,
-   "chg_pct": -5.2,
-   "rsi_1h": 29.7,
-   "rsi_1h_prev": 29.4,
-   "rsi_1d": 24.2,
-   "vol_x": 0.0,
-   "range_x": 0.09,
+   "price": 67253.59,
+   "chg_pct": -1.46,
+   "rsi_1h": 35.4,
+   "rsi_1h_prev": 35.5,
+   "rsi_1d": 23.6,
+   "vol_x": 0.59,
+   "range_x": 0.19,
    "support": 62487.6992,
    "resistance": 79818.3359,
-   "dist_sup_pct": 8.23,
-   "dist_res_pct": 18.02,
-   "prev_dist_sup_pct": 8.21,
-   "prev_dist_res_pct": 18.04,
+   "dist_sup_pct": 7.63,
+   "dist_res_pct": 18.68,
+   "prev_dist_sup_pct": 7.65,
+   "prev_dist_res_pct": 18.66,
    "ma_1h": {
     "now": "-",
     "prev": "-",
@@ -394,24 +394,24 @@
    },
    "struct_break": null,
    "stale_hours": 0.0,
-   "last_bar_utc": "2026-11-14T03:02:00+00:00",
+   "last_bar_utc": "2026-11-14T10:07:58+00:00",
    "signals": []
   },
   {
    "sym": "ETH-USD",
-   "price": 1909.72,
-   "chg_pct": -5.31,
-   "rsi_1h": 34.9,
-   "rsi_1h_prev": 34.3,
-   "rsi_1d": 24.2,
-   "vol_x": 0.22,
-   "range_x": 0.15,
+   "price": 1907.77,
+   "chg_pct": -1.03,
+   "rsi_1h": 42.0,
+   "rsi_1h_prev": 42.0,
+   "rsi_1d": 24.1,
+   "vol_x": 0.82,
+   "range_x": 0.24,
    "support": 1852.8403,
    "resistance": 1937.1666,
-   "dist_sup_pct": 3.07,
-   "dist_res_pct": 1.44,
-   "prev_dist_sup_pct": 3.01,
-   "prev_dist_res_pct": 1.49,
+   "dist_sup_pct": 2.96,
+   "dist_res_pct": 1.54,
+   "prev_dist_sup_pct": 2.97,
+   "prev_dist_res_pct": 1.53,
    "ma_1h": {
     "now": "-",
     "prev": "-",
@@ -424,24 +424,24 @@
    },
    "struct_break": null,
    "stale_hours": 0.0,
-   "last_bar_utc": "2026-11-14T03:02:02+00:00",
+   "last_bar_utc": "2026-11-14T10:07:57+00:00",
    "signals": []
   },
   {
    "sym": "SOL-USD",
-   "price": 76.1,
-   "chg_pct": -6.81,
-   "rsi_1h": 25.1,
-   "rsi_1h_prev": 24.6,
-   "rsi_1d": 18.5,
+   "price": 75.74,
+   "chg_pct": -3.02,
+   "rsi_1h": 34.6,
+   "rsi_1h_prev": 34.7,
+   "rsi_1d": 18.2,
    "vol_x": 0.0,
-   "range_x": 0.15,
+   "range_x": 0.13,
    "support": 74.2042,
    "resistance": 77.3709,
-   "dist_sup_pct": 2.55,
-   "dist_res_pct": 1.67,
-   "prev_dist_sup_pct": 2.5,
-   "prev_dist_res_pct": 1.72,
+   "dist_sup_pct": 2.07,
+   "dist_res_pct": 2.15,
+   "prev_dist_sup_pct": 2.1,
+   "prev_dist_res_pct": 2.13,
    "ma_1h": {
     "now": "-",
     "prev": "-",
@@ -454,7 +454,7 @@
    },
    "struct_break": null,
    "stale_hours": 0.0,
-   "last_bar_utc": "2026-11-14T03:02:01+00:00",
+   "last_bar_utc": "2026-11-14T10:07:55+00:00",
    "signals": []
   },
   {
@@ -483,7 +483,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 6.0,
+   "stale_hours": 13.1,
    "last_bar_utc": "2026-11-13T21:00:00+00:00",
    "signals": []
   },
@@ -513,7 +513,7 @@
     "changed": false
    },
    "struct_break": null,
-   "stale_hours": 6.0,
+   "stale_hours": 13.1,
    "last_bar_utc": "2026-11-13T21:00:00+00:00",
    "signals": []
   }
